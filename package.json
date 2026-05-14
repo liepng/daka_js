@@ -1,0 +1,17 @@
+{
+  "name": "checkin-h5",
+  "version": "1.0.0",
+  "description": "每日打卡 H5 应用，支持文字、图片、视频和语音记录。",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "node build.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "archiver": "^7.0.1",
+    "node-forge": "^1.4.0"
+  }
+}

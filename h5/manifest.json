@@ -1,0 +1,1 @@
+{"name": "每日打卡", "short_name": "打卡", "description": "每日打卡记录 - 文字、图片、视频、语音", "start_url": "/", "display": "standalone", "background_color": "#f5f5f5", "theme_color": "#07c160", "icons": [{"src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml"}]}
